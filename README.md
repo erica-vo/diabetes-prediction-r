@@ -36,7 +36,7 @@ Response variable:
 
 ## Repository Structure
 - `analysis.R` — main R script for EDA, model training, and evaluation
-- `Statistical Report_Vo Ngoc Gia Bao_AY2526.pdf` — final statistical report
+- `Report.pdf` — final statistical report
 - `README.md` — project overview
 
 ## Tools and Packages
